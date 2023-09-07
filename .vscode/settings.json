@@ -3,5 +3,10 @@
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
-    "typescript.tsdk": "node_modules/typescript/lib"
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0D3330",
+        "titleBar.activeBackground": "#134744",
+        "titleBar.activeForeground": "#F5FCFC"
+    }
 }
